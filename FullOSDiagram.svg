@@ -1,0 +1,144 @@
+<svg version="1.1" x="0" y="0" id="i7qbb88x1" diagram-revision="3" width="380" height="455" xmlns="http://www.w3.org/2000/svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="L6DB51B0" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6DB51B;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#B9E698;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="L00CED10" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00CED1;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#93E9F4;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="LFFF1000" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFF100;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#FAF493;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="LEFEFEF270" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" style="stop-color:#EFEFEF;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#FAFAFA;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="L29A98C0" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#29A98C;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#A7D7D8;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="LA0A0A00" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#A0A0A0;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#D3D3D3;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="LFF7B160" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF7B16;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#FAC896;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <g id="Vertical Rectangle-i7qbb88x-ko19" transform="translate(5,150)">
+    <desc>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(4.1094441413879395,1.21875)">
+      <rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" fill="#ffffff" stroke="#003494" width="89" height="159" style="stroke-dasharray:none;stroke:#003494;stroke-width:2;fill:#ffffff;" stroke-width="2" stroke-dasharray="none"/>
+    </g>
+  </g>
+  <g id="i7qbb88x-ko17" transform="translate(15,5)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image" transform="rotate(-8.802400082997494e-15)">
+      <g id="graphics">
+        <rect x="1" y="1" width="183.0000023841858" height="333" rx="20" fill="url(#L29A98C0)" stroke="#1e7a64" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="147" height="28" transform="translate(19,5)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#000000;">Virtual Machine</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko15" transform="translate(25,155)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="1" y="1" width="162.99999284744263" height="178" rx="20" fill="url(#LA0A0A00)" stroke="#727272" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="99" height="28" transform="translate(32.95,5)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#ffffff;">OS Kernel</tspan>
+    </text>
+  </g>
+  <g id="Vertical Rounded Rectangle-i7qbb88x-ko1" transform="translate(25,354)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="1" y="1" width="162.99999284744263" height="43" rx="20" fill="url(#L00CED10)" stroke="#097575" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="108" height="28" transform="translate(28.45,8)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#03333d;">Hypervisor</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko2" transform="translate(25,405)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="1" y="1" width="162.99999284744263" height="43" rx="20" fill="url(#L6DB51B0)" stroke="#407208" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="98" height="28" transform="translate(33.45,8)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#0e440e;">Hardware</tspan>
+    </text>
+  </g>
+  <g id="Connector-i7qbb88x-ko4" transform="translate(-555,-515)">
+    <g id="graphics">
+      <path d="M 582 858 L 740 858 " fill="none" stroke="#003494" stroke-width="2" stroke-dasharray="5,5"/>
+    </g>
+  </g>
+  <g id="i7qbb88x-ko6" transform="translate(25,40)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="1" y="1" width="162.99999284744263" height="43" rx="20" fill="url(#LFF7B160)" stroke="#a84800" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="107" height="28" transform="translate(28.95,8)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#590e01;">Application</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko5" transform="translate(25,90)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="1" y="1" width="162.99999284744263" height="53" rx="20" fill="url(#LFFF1000)" stroke="#ed7710" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="95" height="50" transform="translate(34.95,2)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#c75000;">Language</tspan>
+      <tspan x="10" y="45" style="font-family:Lato;font-size:18px;fill:#c75000;">Runtime</tspan>
+    </text>
+  </g>
+  <g id="Vertical Rectangle-i7qbb88x-ko10" transform="translate(35,200)">
+    <desc>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.6111112833023071,0.21875)">
+      <rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" fill="#f2f2f2" stroke="#bc2025" width="89" height="159" style="stroke-dasharray:none;stroke:#bc2025;stroke-width:2;fill:#f2f2f2;" stroke-width="2" stroke-dasharray="none"/>
+    </g>
+    <text x="0" y="0" width="73" height="25" transform="translate(36,4.5)">
+      <tspan x="5" y="20" style="font-family:Lato;font-size:16px;fill:#bc2025;">Threads</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko11" transform="translate(35,240)">
+    <desc>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.6111112833023071,0.21875)">
+      <rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" fill="url(#LEFEFEF270)" stroke="#04699a" width="89" height="159" style="stroke-dasharray:none;stroke:#04699a;stroke-width:2;fill:url(#LEFEFEF270);" stroke-width="2" stroke-dasharray="none"/>
+    </g>
+    <text x="0" y="0" width="91" height="25" transform="translate(27,4.5)">
+      <tspan x="5" y="20" style="font-family:Lato;font-size:16px;fill:#db3b0f;">Processes</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko13" transform="translate(35,280)">
+    <desc>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.6111112833023071,0.21875)">
+      <rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" fill="#ffffff" stroke="#ffbf00" width="89" height="159" style="stroke-dasharray:none;stroke:#ffbf00;stroke-width:2;fill:#ffffff;" stroke-width="2" stroke-dasharray="none"/>
+    </g>
+    <text x="0" y="0" width="66" height="25" transform="translate(39.5,4.5)">
+      <tspan x="5" y="20" style="font-family:Lato;font-size:16px;fill:#e68e15;">Drivers</tspan>
+    </text>
+  </g>
+  <g id="TextBox-i7qbb88x-ko20" transform="translate(220,195)">
+    <desc>root/textControl?version=&amp;author=</desc>
+    <g id="image"/>
+    <text x="0" y="0" width="48" height="90" transform="translate(51,7.5)">
+      <tspan x="5" y="72" style="font-family:Lato;font-size:72px;fill:#000000;">?</tspan>
+    </text>
+  </g>
+</svg>

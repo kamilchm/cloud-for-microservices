@@ -1,0 +1,873 @@
+<svg version="1.1" x="0" y="0" id="i7qbb88x1" diagram-revision="5" width="510" height="455" xmlns="http://www.w3.org/2000/svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="L29A98C0" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#29A98C;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#A7D7D8;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="LA0A0A00" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#A0A0A0;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#D3D3D3;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="L6DB51B0" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6DB51B;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#B9E698;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="LFF7B160" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF7B16;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#FAC896;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="LEFEFEF270" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" style="stop-color:#EFEFEF;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#FAFAFA;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="L00CED10" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00CED1;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#93E9F4;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="LFFF1000" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFF100;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#FAF493;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <g id="i7qbb88x-ko17" transform="translate(5,5)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image" transform="rotate(-8.802400082997494e-15)">
+      <g id="graphics">
+        <rect x="1" y="1" width="183.0000023841858" height="333" rx="20" fill="url(#L29A98C0)" stroke="#1e7a64" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="147" height="28" transform="translate(19,5)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#000000;">Virtual Machine</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko15" transform="translate(15,155)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="1" y="1" width="162.99999284744263" height="178" rx="20" fill="url(#LA0A0A00)" stroke="#727272" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="99" height="28" transform="translate(32.95,5)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#ffffff;">OS Kernel</tspan>
+    </text>
+  </g>
+  <g id="Vertical Rounded Rectangle-i7qbb88x-ko1" transform="translate(15,354)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="1" y="1" width="162.99999284744263" height="43" rx="20" fill="url(#L00CED10)" stroke="#097575" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="108" height="28" transform="translate(28.45,8)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#03333d;">Hypervisor</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko2" transform="translate(15,405)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="1" y="1" width="162.99999284744263" height="43" rx="20" fill="url(#L6DB51B0)" stroke="#407208" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="98" height="28" transform="translate(33.45,8)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#0e440e;">Hardware</tspan>
+    </text>
+  </g>
+  <g id="Connector-i7qbb88x-ko4" transform="translate(-565,-515)">
+    <g id="graphics">
+      <path d="M 575 860 L 750 860 " fill="none" stroke="#003494" stroke-width="2" stroke-dasharray="5,5"/>
+    </g>
+  </g>
+  <g id="i7qbb88x-ko6" transform="translate(15,40)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="1" y="1" width="162.99999284744263" height="43" rx="20" fill="url(#LFF7B160)" stroke="#a84800" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="107" height="28" transform="translate(28.95,8)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#590e01;">Application</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko5" transform="translate(15,90)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="1" y="1" width="162.99999284744263" height="53" rx="20" fill="url(#LFFF1000)" stroke="#ed7710" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="95" height="50" transform="translate(34.95,2)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#c75000;">Language</tspan>
+      <tspan x="10" y="45" style="font-family:Lato;font-size:18px;fill:#c75000;">Runtime</tspan>
+    </text>
+  </g>
+  <g id="Vertical Rectangle-i7qbb88x-ko10" transform="translate(25,200)">
+    <desc>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.6111112833023071,0.21875)">
+      <rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" fill="#f2f2f2" stroke="#bc2025" width="89" height="159" style="stroke-dasharray:none;stroke:#bc2025;stroke-width:2;fill:#f2f2f2;" stroke-width="2" stroke-dasharray="none"/>
+    </g>
+    <text x="0" y="0" width="73" height="25" transform="translate(36,4.5)">
+      <tspan x="5" y="19" style="font-family:Lato;font-size:16px;fill:#bc2025;">Threads</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko11" transform="translate(25,240)">
+    <desc>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.6111112833023071,0.21875)">
+      <rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" fill="url(#LEFEFEF270)" stroke="#04699a" width="89" height="159" style="stroke-dasharray:none;stroke:#04699a;stroke-width:2;fill:url(#LEFEFEF270);" stroke-width="2" stroke-dasharray="none"/>
+    </g>
+    <text x="0" y="0" width="91" height="25" transform="translate(27,4.5)">
+      <tspan x="5" y="19" style="font-family:Lato;font-size:16px;fill:#db3b0f;">Processes</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko13" transform="translate(25,280)">
+    <desc>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.6111112833023071,0.21875)">
+      <rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" fill="#ffffff" stroke="#ffbf00" width="89" height="159" style="stroke-dasharray:none;stroke:#ffbf00;stroke-width:2;fill:#ffffff;" stroke-width="2" stroke-dasharray="none"/>
+    </g>
+    <text x="0" y="0" width="66" height="25" transform="translate(39.5,4.5)">
+      <tspan x="5" y="19" style="font-family:Lato;font-size:16px;fill:#e68e15;">Drivers</tspan>
+    </text>
+  </g>
+  <g id="Right Striped Arrow-i7qbb88x-ko44" transform="translate(210,175)">
+    <desc>root/arrows/rightStiped?version=2&amp;author=Cinergix</desc>
+    <g id="image">
+      <g>
+        <rect vector-effect="non-scaling-stroke" x="5.958" y="15.008" fill="#ffffff" stroke="#3298da" width="6.186" height="27.653" style="stroke:#3298da;stroke-width:1.5;fill:#ffffff;" stroke-width="1.5"/>
+        <rect vector-effect="non-scaling-stroke" x="0.5" y="15.008" fill="#ffffff" stroke="#3298da" width="3.475" height="27.651" style="stroke:#3298da;stroke-width:1.5;fill:#ffffff;" stroke-width="1.5"/>
+        <path vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" d="M82.465,43.798" style="stroke:#3298da;stroke-width:1.5;fill:#ffffff;" stroke-width="1.5"/>
+        <polygon vector-effect="non-scaling-stroke" fill="#ffffff" stroke="#3298da" points="14.184,43.001 68.609,43.001 68.609,56.734 90.5,29.023 68.609,1.435 &#xD;&#xA;&#x9;&#x9;68.609,15.045 14.184,15.045 &#x9;" style="stroke:#3298da;stroke-width:1.5;fill:#ffffff;" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+  <g id="i7qbb88x-ko52" transform="translate(320,5)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image" transform="rotate(-8.802400082997494e-15)">
+      <g id="graphics">
+        <rect x="1" y="1" width="183.0000023841858" height="197.00001525878906" rx="20" fill="url(#L29A98C0)" stroke="#1e7a64" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="97" height="28" transform="translate(44,5)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#000000;">Container</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko46" transform="translate(330,220)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="1" y="1" width="162.99999284744263" height="178" rx="20" fill="url(#LA0A0A00)" stroke="#727272" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="99" height="28" transform="translate(32.95,5)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#ffffff;">OS Kernel</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko53" transform="translate(330,405)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="1" y="1" width="162.99999284744263" height="43" rx="20" fill="url(#L6DB51B0)" stroke="#407208" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="98" height="28" transform="translate(33.45,8)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#0e440e;">Hardware</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko54" transform="translate(-565,-515)">
+    <g id="graphics">
+      <path d="M 887 726 L 1062 726 " fill="none" stroke="#003494" stroke-width="2" stroke-dasharray="5,5"/>
+    </g>
+  </g>
+  <g id="i7qbb88x-ko48" transform="translate(330,85)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="1" y="1" width="162.99999284744263" height="43" rx="20" fill="url(#LFF7B160)" stroke="#a84800" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="107" height="28" transform="translate(28.95,8)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#590e01;">Application</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko45" transform="translate(330,135)">
+    <desc>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</desc>
+    <g id="image">
+      <g id="graphics">
+        <rect x="1" y="1" width="162.99999284744263" height="53" rx="20" fill="url(#LFFF1000)" stroke="#ed7710" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="95" height="50" transform="translate(34.95,2)">
+      <tspan x="5" y="21" style="font-family:Lato;font-size:18px;fill:#c75000;">Language</tspan>
+      <tspan x="10" y="45" style="font-family:Lato;font-size:18px;fill:#c75000;">Runtime</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko50" transform="translate(340,265)">
+    <desc>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.6111112833023071,0.21875)">
+      <rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" fill="#f2f2f2" stroke="#bc2025" width="89" height="159" style="stroke-dasharray:none;stroke:#bc2025;stroke-width:2;fill:#f2f2f2;" stroke-width="2" stroke-dasharray="none"/>
+    </g>
+    <text x="0" y="0" width="73" height="25" transform="translate(36,4.5)">
+      <tspan x="5" y="20" style="font-family:Lato;font-size:16px;fill:#bc2025;">Threads</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko51" transform="translate(340,305)">
+    <desc>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.6111112833023071,0.21875)">
+      <rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" fill="url(#LEFEFEF270)" stroke="#04699a" width="89" height="159" style="stroke-dasharray:none;stroke:#04699a;stroke-width:2;fill:url(#LEFEFEF270);" stroke-width="2" stroke-dasharray="none"/>
+    </g>
+    <text x="0" y="0" width="91" height="25" transform="translate(27,4.5)">
+      <tspan x="5" y="20" style="font-family:Lato;font-size:16px;fill:#db3b0f;">Processes</tspan>
+    </text>
+  </g>
+  <g id="i7qbb88x-ko47" transform="translate(340,345)">
+    <desc>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.6111112833023071,0.21875)">
+      <rect vector-effect="non-scaling-stroke" x="0.5" y="0.5" fill="#ffffff" stroke="#ffbf00" width="89" height="159" style="stroke-dasharray:none;stroke:#ffbf00;stroke-width:2;fill:#ffffff;" stroke-width="2" stroke-dasharray="none"/>
+    </g>
+    <text x="0" y="0" width="66" height="25" transform="translate(39.5,4.5)">
+      <tspan x="6" y="20" style="font-family:Lato;font-size:16px;fill:#e68e15;">Drivers</tspan>
+    </text>
+  </g>
+  <creately-doc format-version="1.0" sync="false" owner-name="Kamil Chmielewski" id="i7qbb88x1" projectid="pgyof0941" updated-user="Kamil Chmielewski" revision="6">
+    <published>false</published>
+    <inSync>false</inSync>
+    <diagramTypeId>block-diagram</diagramTypeId>
+    <libraries>
+      <lib-ID>
+        <id>basic</id>
+      </lib-ID>
+      <lib-ID>
+        <id>arrows</id>
+      </lib-ID>
+    </libraries>
+    <comments/>
+    <notes/>
+    <koDefIDList>
+      <def-ID>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</def-ID>
+      <def-ID>root/abstractShapes?version=1&amp;author=Cinergix</def-ID>
+      <def-ID>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</def-ID>
+      <def-ID>root/arrows/rightStiped?version=2&amp;author=Cinergix</def-ID>
+      <def-ID>root/arrows?version=1&amp;author=Cinergix</def-ID>
+    </koDefIDList>
+    <canvas-width>1500</canvas-width>
+    <kodefs/>
+    <connectors>
+      <connector zorder="4" end-point-one-y="860" model-type="LINE" end-point-one-x="575" id="Connector-i7qbb88x-ko4" bi-directional="false" show-obj-two-img="false" show-obj-one-img="false" end-point-two-y="860" end-point-two-x="750">
+        <group-id/>
+        <anchPntIDObjOne/>
+        <comments/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <isLocked>false</isLocked>
+        <anchPntIDObjTwo/>
+        <drawStyle>1</drawStyle>
+        <object-one-id/>
+        <connection-name/>
+        <connection-desc/>
+        <toIconSource/>
+        <text wrapping="false" position="CONNECTOR_PATH_CENTER" text-rotation="NaN">
+          <content/>
+          <text-formats>
+            <text-format size="12" bold="false" bullet="false" color="1325170" align="center" begin-index="-1" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="0" kerning="false" indent="0" end-index="-1" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <compatibleConnDefs/>
+        <fromIconSource/>
+        <isVisible>false</isVisible>
+        <style line-color="13460" line-thickness="2" line-style="LINESTYLE_NAME_DASH1" alpha="NaN"/>
+        <object-two-id/>
+        <text-data-list>
+          <line-text location="0.5" id="i7qbb88x-tf1" position="" isPrimary="true">
+            <text-formats>
+              <text-format size="12" bold="false" bullet="false" color="0" align="center" begin-index="-1" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="0" kerning="false" indent="0" end-index="-1" under-line="false" block-indent="0">
+                <url/>
+                <target/>
+              </text-format>
+            </text-formats>
+            <text/>
+          </line-text>
+        </text-data-list>
+        <anchor-points/>
+        <connection-def-id/>
+        <ownerDiagID>i7qbb88x1</ownerDiagID>
+      </connector>
+      <connector zorder="14" end-point-one-y="726" model-type="LINE" end-point-one-x="887" id="i7qbb88x-ko54" bi-directional="false" show-obj-two-img="false" show-obj-one-img="false" end-point-two-y="726" end-point-two-x="1062">
+        <group-id/>
+        <anchPntIDObjOne/>
+        <comments/>
+        <anchorsCustomized>false</anchorsCustomized>
+        <isLocked>false</isLocked>
+        <anchPntIDObjTwo/>
+        <drawStyle>1</drawStyle>
+        <object-one-id/>
+        <connection-name/>
+        <connection-desc/>
+        <toIconSource/>
+        <text wrapping="false" position="CONNECTOR_PATH_CENTER" text-rotation="NaN">
+          <content/>
+          <text-formats>
+            <text-format size="12" bold="false" bullet="false" color="1325170" align="center" begin-index="-1" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="0" kerning="false" indent="0" end-index="-1" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <compatibleConnDefs/>
+        <fromIconSource/>
+        <isVisible>false</isVisible>
+        <style line-color="13460" line-thickness="2" line-style="LINESTYLE_NAME_DASH1" alpha="NaN"/>
+        <object-two-id/>
+        <text-data-list>
+          <line-text location="0.5" id="i7qbb88x-tf3" position="" isPrimary="true">
+            <text-formats>
+              <text-format size="12" bold="false" bullet="false" color="0" align="center" begin-index="-1" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="0" kerning="false" indent="0" end-index="-1" under-line="false" block-indent="0">
+                <url/>
+                <target/>
+              </text-format>
+            </text-formats>
+            <text/>
+          </line-text>
+        </text-data-list>
+        <anchor-points/>
+        <connection-def-id/>
+        <ownerDiagID>i7qbb88x1</ownerDiagID>
+      </connector>
+    </connectors>
+    <canvas-height>1500</canvas-height>
+    <tags/>
+    <revisionUserId>PHP67BE5-D114-418E-88C4-EA91D40586C6</revisionUserId>
+    <viewHash/>
+    <embedHash>eFuIUxMf1BgdLTtmGVQEz5JjS0=</embedHash>
+    <objects>
+      <object zorder="17" model-type="NORMAL" locked="false" visible="true" id="i7qbb88x-ko50" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="CENTRE" text-rotation="NaN">
+          <content>Threads</content>
+          <text-formats>
+            <text-format size="16" bold="false" bullet="false" color="12328997" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="8" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="12328997" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="15921906" fill-gradient="GRADIENT_FILL_SOLID" alpha="1"/>
+        <children/>
+        <dimension y="780" height="35" scale-x="1" angle="0" width="145.00001549720764" scale-y="1" x="905">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="0" ty="0" d="0.21875" a="1.6111112833023071" b="0"/>
+        </dimension>
+      </object>
+      <object zorder="1" model-type="NORMAL" locked="false" visible="true" id="i7qbb88x-ko15" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="INNERTOP" text-rotation="NaN">
+          <content>OS Kernel</content>
+          <text-formats>
+            <text-format size="18" bold="false" bullet="false" color="16777215" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="9" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="40" type="" name="cornerradius"/>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="7500402" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="10526880" fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1"/>
+        <children/>
+        <dimension y="670" height="180" scale-x="1.8333333333333333" angle="0" width="165" scale-y="1.125" x="580">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="1.77635686587003e-16" ty="0" d="1.125" a="1.8333332538604736" b="0"/>
+        </dimension>
+      </object>
+      <object zorder="19" model-type="NORMAL" locked="false" visible="true" id="i7qbb88x-ko47" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="CENTRE" text-rotation="NaN">
+          <content>Drivers</content>
+          <text-formats>
+            <text-format size="16" bold="false" bullet="false" color="15109653" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="7" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="16760576" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="16777215" fill-gradient="GRADIENT_FILL_SOLID" alpha="1"/>
+        <children/>
+        <dimension y="860" height="35" scale-x="1" angle="0" width="145.00001549720764" scale-y="1" x="905">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="0" ty="0" d="0.21875" a="1.6111112833023071" b="0"/>
+        </dimension>
+      </object>
+      <object zorder="5" model-type="NORMAL" locked="false" visible="true" id="i7qbb88x-ko6" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="CENTRE" text-rotation="NaN">
+          <content>Application</content>
+          <text-formats>
+            <text-format size="18" bold="false" bullet="false" color="5836289" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="11" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="40" type="" name="cornerradius"/>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="11028480" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="16743190" fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1"/>
+        <children/>
+        <dimension y="555" height="45" scale-x="1.8333333333333333" angle="0" width="165" scale-y="0.28125" x="580">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="0" ty="0" d="0.28125" a="1.8333332538604736" b="0"/>
+        </dimension>
+      </object>
+      <object zorder="6" model-type="NORMAL" locked="false" visible="true" id="i7qbb88x-ko5" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="CENTRE" text-rotation="NaN">
+          <content>Language(~!nl!~)Runtime</content>
+          <text-formats>
+            <text-format size="18" bold="false" bullet="false" color="13062144" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="16" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="40" type="" name="cornerradius"/>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="15562512" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="16773376" fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1"/>
+        <children/>
+        <dimension y="605" height="55" scale-x="1.8333333333333333" angle="0" width="165" scale-y="0.34375" x="580">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="8.88178432935015e-17" ty="0" d="0.34375" a="1.8333332538604736" b="0"/>
+        </dimension>
+      </object>
+      <object zorder="11" model-type="NORMAL" locked="false" visible="true" id="i7qbb88x-ko52" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="INNERTOP" text-rotation="NaN">
+          <content>Container</content>
+          <text-formats>
+            <text-format size="18" bold="false" bullet="false" color="0" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="9" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="40" type="" name="cornerradius"/>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="1997412" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="2730380" fill-gradient="GRADIENT_FILL_LINEAR_DIAGONAL_BOTTOM_LEFT" alpha="1"/>
+        <children/>
+        <dimension y="520" height="199" scale-x="2.0555555555555554" angle="-8.802400082997494e-15" width="185" scale-y="1.24375" x="885">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="3.55271373174006e-16" ty="0" d="1.2437500953674316" a="2.055555582046509" b="-3.1579677909575863e-16"/>
+        </dimension>
+      </object>
+      <object zorder="12" model-type="NORMAL" locked="false" visible="true" id="i7qbb88x-ko46" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="INNERTOP" text-rotation="NaN">
+          <content>OS Kernel</content>
+          <text-formats>
+            <text-format size="18" bold="false" bullet="false" color="16777215" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="9" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="40" type="" name="cornerradius"/>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="7500402" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="10526880" fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1"/>
+        <children/>
+        <dimension y="735" height="180" scale-x="1.8333333333333333" angle="0" width="165" scale-y="1.125" x="895">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="1.77635686587003e-16" ty="0" d="1.125" a="1.8333332538604736" b="0"/>
+        </dimension>
+      </object>
+      <object zorder="2" model-type="NORMAL" locked="false" visible="true" id="Vertical Rounded Rectangle-i7qbb88x-ko1" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="CENTRE" text-rotation="NaN">
+          <content>Hypervisor</content>
+          <text-formats>
+            <text-format size="18" bold="false" bullet="false" color="209725" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="11" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="40" type="" name="cornerradius"/>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="619893" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="52945" fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1"/>
+        <children/>
+        <dimension y="869" height="45" scale-x="1.8333333333333333" angle="0" width="165" scale-y="0.28125" x="580">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="0" ty="0" d="0.28125" a="1.8333332538604736" b="0"/>
+        </dimension>
+      </object>
+      <object zorder="8" model-type="NORMAL" locked="false" visible="true" id="i7qbb88x-ko11" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="CENTRE" text-rotation="NaN">
+          <content>Processes</content>
+          <text-formats>
+            <text-format size="16" bold="false" bullet="false" color="14367503" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="9" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="289178" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="15724527" fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1"/>
+        <children/>
+        <dimension y="755" height="35" scale-x="0.9354839781444609" angle="0" width="145.00001549720764" scale-y="1" x="590">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="0" ty="0" d="0.21875" a="1.6111112833023071" b="0"/>
+        </dimension>
+      </object>
+      <object zorder="0" model-type="NORMAL" locked="false" visible="true" id="i7qbb88x-ko17" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="INNERTOP" text-rotation="NaN">
+          <content>Virtual Machine</content>
+          <text-formats>
+            <text-format size="18" bold="false" bullet="false" color="0" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="15" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="40" type="" name="cornerradius"/>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="1997412" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="2730380" fill-gradient="GRADIENT_FILL_LINEAR_DIAGONAL_BOTTOM_LEFT" alpha="1"/>
+        <children/>
+        <dimension y="520" height="335" scale-x="2.0555555555555554" angle="-8.802400082997494e-15" width="185" scale-y="2.09375" x="570">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="5.329070729958988e-16" ty="0" d="2.09375" a="2.055555582046509" b="-3.1579677909575863e-16"/>
+        </dimension>
+      </object>
+      <object zorder="9" model-type="NORMAL" locked="false" visible="true" id="i7qbb88x-ko13" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="CENTRE" text-rotation="NaN">
+          <content>Drivers</content>
+          <text-formats>
+            <text-format size="16" bold="false" bullet="false" color="15109653" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="7" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="16760576" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="16777215" fill-gradient="GRADIENT_FILL_SOLID" alpha="1"/>
+        <children/>
+        <dimension y="795" height="35" scale-x="0.9354839781444609" angle="0" width="145.00001549720764" scale-y="1" x="590">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="0" ty="0" d="0.21875" a="1.6111112833023071" b="0"/>
+        </dimension>
+      </object>
+      <object zorder="18" model-type="NORMAL" locked="false" visible="true" id="i7qbb88x-ko51" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="CENTRE" text-rotation="NaN">
+          <content>Processes</content>
+          <text-formats>
+            <text-format size="16" bold="false" bullet="false" color="14367503" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="9" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="289178" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="15724527" fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1"/>
+        <children/>
+        <dimension y="820" height="35" scale-x="1" angle="0" width="145.00001549720764" scale-y="1" x="905">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="0" ty="0" d="0.21875" a="1.6111112833023071" b="0"/>
+        </dimension>
+      </object>
+      <object zorder="13" model-type="NORMAL" locked="false" visible="true" id="i7qbb88x-ko53" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="CENTRE" text-rotation="NaN">
+          <content>Hardware</content>
+          <text-formats>
+            <text-format size="18" bold="false" bullet="false" color="934926" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="8" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="40" type="" name="cornerradius"/>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="4223496" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="7189787" fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1"/>
+        <children/>
+        <dimension y="920" height="45" scale-x="1.8333333333333333" angle="0" width="165" scale-y="0.28125" x="895">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="0" ty="0" d="0.28125" a="1.8333332538604736" b="0"/>
+        </dimension>
+      </object>
+      <object zorder="16" model-type="NORMAL" locked="false" visible="true" id="i7qbb88x-ko45" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="CENTRE" text-rotation="NaN">
+          <content>Language(~!nl!~)Runtime</content>
+          <text-formats>
+            <text-format size="18" bold="false" bullet="false" color="13062144" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="16" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="40" type="" name="cornerradius"/>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="15562512" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="16773376" fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1"/>
+        <children/>
+        <dimension y="650" height="55" scale-x="1.8333333333333333" angle="0" width="165" scale-y="0.34375" x="895">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="8.88178432935015e-17" ty="0" d="0.34375" a="1.8333332538604736" b="0"/>
+        </dimension>
+      </object>
+      <object zorder="7" model-type="NORMAL" locked="false" visible="true" id="Vertical Rectangle-i7qbb88x-ko10" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRectangle?version=3&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="CENTRE" text-rotation="NaN">
+          <content>Threads</content>
+          <text-formats>
+            <text-format size="16" bold="false" bullet="false" color="12328997" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="8" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="12328997" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="15921906" fill-gradient="GRADIENT_FILL_SOLID" alpha="1"/>
+        <children/>
+        <dimension y="715" height="35" scale-x="1.6111112833023071" angle="0" width="145.00001549720764" scale-y="0.21875" x="590">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="0" ty="0" d="0.21875" a="1.6111112833023071" b="0"/>
+        </dimension>
+      </object>
+      <object zorder="10" model-type="NORMAL" locked="false" visible="true" id="Right Striped Arrow-i7qbb88x-ko44" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/arrows/rightStiped?version=2&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="SOUTH" text-rotation="NaN">
+          <content/>
+          <text-formats>
+            <text-format size="14" bold="false" bullet="false" color="3835837" align="center" begin-index="-1" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="0" kerning="false" indent="0" end-index="-1" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="3315930" line-thickness="1.5" fill="true" line-style="" fill-color="16777215" fill-gradient="GRADIENT_FILL_SOLID" alpha="1"/>
+        <children/>
+        <dimension y="690" height="58.174" scale-x="1" angle="0" width="91.138" scale-y="1" x="775">
+          <default-bounds y="0" width="91.138" height="58.174" x="0"/>
+          <matrix tx="0" c="0" ty="0" d="1" a="1" b="0"/>
+        </dimension>
+      </object>
+      <object zorder="3" model-type="NORMAL" locked="false" visible="true" id="i7qbb88x-ko2" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="CENTRE" text-rotation="NaN">
+          <content>Hardware</content>
+          <text-formats>
+            <text-format size="18" bold="false" bullet="false" color="934926" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="8" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="40" type="" name="cornerradius"/>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="4223496" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="7189787" fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1"/>
+        <children/>
+        <dimension y="920" height="45" scale-x="1.8333333333333333" angle="0" width="165" scale-y="0.28125" x="580">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="0" ty="0" d="0.28125" a="1.8333332538604736" b="0"/>
+        </dimension>
+      </object>
+      <object zorder="15" model-type="NORMAL" locked="false" visible="true" id="i7qbb88x-ko48" name="" type="NORMAL">
+        <group-id/>
+        <collapse collapsed="false" expanded-width="NaN" collapsed-height="NaN" expanded-x-pos="NaN" expanded-height="NaN" collapsed-x-pos="NaN" expanded-y-pos="NaN" collapsed-y-pos="NaN" collapsed-width="NaN"/>
+        <kobject-def-id>root/abstractShapes/vRoundedRectangle?version=4&amp;author=Cinergix</kobject-def-id>
+        <text wrapping="true" position="CENTRE" text-rotation="NaN">
+          <content>Application</content>
+          <text-formats>
+            <text-format size="18" bold="false" bullet="false" color="5836289" align="center" begin-index="0" italic="false" display="block" left-margin="0" font="Lato" letter-spacing="0" order="0" right-margin="0" leading="2" kerning="false" indent="0" end-index="11" under-line="false" block-indent="0">
+              <url/>
+              <target/>
+            </text-format>
+          </text-formats>
+        </text>
+        <data-items>
+          <data-item value="" type="" name="notes"/>
+          <data-item value="40" type="" name="cornerradius"/>
+          <data-item value="0" type="" name="isConnected"/>
+          <data-item value="" type="" name="DiagramLinkURL"/>
+        </data-items>
+        <container-id/>
+        <comments/>
+        <libraries/>
+        <style line-color="11028480" line-thickness="2" fill="true" line-style="LINESTYLE_NAME_SOLID" fill-color="16743190" fill-gradient="GRADIENT_FILL_LINEAR_UP" alpha="1"/>
+        <children/>
+        <dimension y="600" height="45" scale-x="1.8333333333333333" angle="0" width="165" scale-y="0.28125" x="895">
+          <default-bounds y="0" width="90" height="160" x="0"/>
+          <matrix tx="0" c="0" ty="0" d="0.28125" a="1.8333332538604736" b="0"/>
+        </dimension>
+      </object>
+    </objects>
+    <save-comments/>
+    <editHash/>
+    <date-created>Thu Mar 26 2015 04:46:09 PM</date-created>
+    <description/>
+    <creatorUid>PHP67BE5-D114-418E-88C4-EA91D40586C6</creatorUid>
+    <date-updated>Thu Mar 26 2015 04:46:09 PM</date-updated>
+    <app-version/>
+    <revision-user>kamil.chm@gmail.com</revision-user>
+    <save-type/>
+    <source-tool/>
+    <resources/>
+    <dtLastEdit>LAST_EDIT_AUTO</dtLastEdit>
+    <creator/>
+    <docname>Unikernels</docname>
+  </creately-doc>
+</svg>
